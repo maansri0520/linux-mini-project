@@ -1,0 +1,17 @@
+Linux Commands Practiced:
+
+pwd – show present working directory
+
+mkdir linux-mini-project – create project folder
+
+cd linux-mini-project – change directory into project folder
+
+touch code.py – create a new file
+
+ls – list files and folders
+
+chmod 777 code.py – give read, write and execute permission
+
+cat code.py – view file content
+
+rm code.py – delete file
